@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rowewebsite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A5407B42FBEA44E4984F392ACBA0A443 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0020E3A0A9304E0B934CCCACF4DAE445 }}
